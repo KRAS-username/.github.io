@@ -1,0 +1,14 @@
+h1 {
+    font-size: 36px;
+}
+#header {
+margin-bottom: 32px;
+text-align: center;
+}
+#main {
+margin-bottom: 8px;
+}
+#footer {
+   margin-top: 64px;
+text-align: center; 
+}
